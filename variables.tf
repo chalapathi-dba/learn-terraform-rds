@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MPL-2.0
 
 variable "region" {
-  default     = "ap-south-2"
+  default     = "ap-south-1"
   description = "AWS region"
 }
 
